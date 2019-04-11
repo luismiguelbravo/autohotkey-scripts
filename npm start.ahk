@@ -1,0 +1,2 @@
+::ninicio::npm start
+return

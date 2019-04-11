@@ -1,0 +1,2 @@
+::gjala::git pull
+return

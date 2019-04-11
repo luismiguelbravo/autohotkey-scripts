@@ -1,1 +1,11 @@
-"# autohotkey-scripts" 
+* git pull => gjala
+* git push => gmetelo
+* git branch => grama
+* git status => gestado
+* bower install => bins
+* Ctrl + C => F9
+* Ctrl + V => F9
+* grunt build watch  => gbw
+* Ctrl + S => F7
+* Ctrl + X => F8
+* npm start => ninicio

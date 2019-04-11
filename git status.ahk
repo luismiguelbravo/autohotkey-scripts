@@ -1,0 +1,2 @@
+::gestado::git status
+return

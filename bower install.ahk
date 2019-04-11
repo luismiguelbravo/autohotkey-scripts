@@ -1,0 +1,2 @@
+::bins::bower install
+return

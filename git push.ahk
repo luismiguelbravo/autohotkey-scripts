@@ -1,0 +1,2 @@
+::gmetelo::git push
+return
